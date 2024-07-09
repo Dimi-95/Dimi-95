@@ -2,6 +2,8 @@
 
 <h2>👨‍💻 Software and Cybersecurity Projects:</h2>
 
+I am currently working on a <a href="https://github.com/Dimi-95/SmartMalwareAnalyzer"> Smart Malware Analyzer </a>
+
 <h2> 🤳 Connect with me:</h2>
 
 
